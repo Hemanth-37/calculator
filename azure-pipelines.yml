@@ -12,5 +12,5 @@ steps:
   inputs:
     azureSubscription: 'Repo connection'
     appType: 'webAppLinux'
-    appName: 'webcalculator11'
+    appName: 'userlogin11'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
